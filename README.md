@@ -147,8 +147,8 @@ It’s an excellent beginner-to-intermediate level project for improving SQL ski
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
+Rahul Suthar 
 SQL Analyst | Data Enthusiast  
-📧 your.email@example.com
+📧 rahulsuthar.2027@gmail.com
 
 ---
