@@ -170,7 +170,9 @@ It’s an excellent beginner-to-intermediate level project for improving SQL ski
 ## 🧑‍💻 Author
 
 Rahul Suthar 
+
 SQL Analyst | Data Enthusiast  
+
 📧 rahulsuthar.2027@gmail.com
 
 ---
