@@ -126,6 +126,28 @@ superstore-sql-project/
 
 ---
 
+---
+
+## 📊 Power BI Dashboard
+
+I also created an interactive Power BI dashboard to visualize the Superstore insights.
+
+📁 File: `powerbi/superstore_dashboard.pbix`
+
+### Key Dashboard Features:
+- Total Sales, Profit, Quantity (KPI Cards)
+- Sales and Profit by Category and Sub-Category
+- Sales Trend by Order Date
+- Regional Sales Performance (Map)
+- Top 10 Products by Sales
+- Filters for Segment, Region, and Ship Mode
+
+*To view the dashboard, download the `.pbix` file and open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).*
+
+---
+
+
+
 ## ✅ Conclusion
 
 This project demonstrates how SQL can be used effectively to:
